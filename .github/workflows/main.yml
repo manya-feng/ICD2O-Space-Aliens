@@ -1,6 +1,6 @@
 ##################################################
 
-# Run Mr Coxall's Super Linter against code base #
+# Run Manya's Super Linter against code base #
 
 ##################################################
 
@@ -8,7 +8,7 @@
 
 ---
 
-name: Mr Coxall's Super Linter
+name: Manya's Super Linter
 
 
 
@@ -20,7 +20,7 @@ jobs:
 
   run-linters:
 
-    name: Mr Coxall's Super Linter
+    name: Manya's Super Linter
 
     runs-on: ubuntu-latest
 
